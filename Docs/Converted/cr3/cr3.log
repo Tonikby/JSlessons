@@ -1,0 +1,1219 @@
+﻿2386/06/06 11:48:02.9440 WARN Changing log level from 3 to 5
+2386/06/06 11:48:02.9460 INFO Downloads path: C:\Users\Anatoly_Lebedev\Downloads
+2386/06/06 11:48:02.9460 INFO Fonts path: C:\WINDOWS\Fonts
+2386/06/06 11:48:02.9460 INFO Home path: C:/Users/Anatoly_Lebedev/
+2386/06/06 11:48:02.9460 INFO Exe path: C:\JSlessons\Docs\Converted\cr3\
+2386/06/06 11:48:02.9460 TRACE LVCreateDirectory(C:/Users/Anatoly_Lebedev/.cr3)
+2386/06/06 11:48:02.9470 TRACE Directory C:/Users/Anatoly_Lebedev/.cr3 exists
+2386/06/06 11:48:02.9470 INFO Setting up user directory: C:/Users/Anatoly_Lebedev/.cr3/
+2386/06/06 11:48:02.9470 INFO Setting up resources directory: C:\JSlessons\Docs\Converted\cr3\res\
+2386/06/06 11:48:02.9470 INFO resourceDir=C:\JSlessons\Docs\Converted\cr3\res\
+2386/06/06 11:48:02.9470 INFO i18nDir=C:\JSlessons\Docs\Converted\cr3\res\i18n\
+2386/06/06 11:48:02.9470 INFO hyphDir=C:\JSlessons\Docs\Converted\cr3\res\hyph\
+2386/06/06 11:48:02.9470 INFO cssDir=C:\JSlessons\Docs\Converted\cr3\res\css\
+2386/06/06 11:48:02.9470 INFO themesDir=C:\JSlessons\Docs\Converted\cr3\res\themes\
+2386/06/06 11:48:02.9470 INFO manualsDir=C:\JSlessons\Docs\Converted\cr3\res\manuals\
+2386/06/06 11:48:02.9470 WARN Changing log level from 5 to 5
+2386/06/06 11:48:02.9470 DEBUG Created GL Font Manager
+2386/06/06 11:48:02.9500 TRACE font definition is duplicate
+2386/06/06 11:48:02.9530 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:02.9530 INFO uiFontFace: Arial, monoFontFace: Courier New, fallbackFontFace: 
+2386/06/06 11:48:02.9530 INFO Created CRCoverFileCache - maxItems=10000 maxFiles=2000 maxSize=33554432 at C:/Users/Anatoly_Lebedev/.cr3/coverpages/
+2386/06/06 11:48:02.9530 TRACE LVCreateDirectory(C:/Users/Anatoly_Lebedev/.cr3/coverpages/)
+2386/06/06 11:48:02.9530 TRACE Directory C:/Users/Anatoly_Lebedev/.cr3/coverpages/ exists
+2386/06/06 11:48:02.9530 INFO CRCoverImageCache:: maxitems=200 maxsize=16777216
+2386/06/06 11:48:02.9530 INFO Initialize document cache at C:/Users/Anatoly_Lebedev/.cr3/cache/ (max size = 33554432)
+2386/06/06 11:48:02.9530 TRACE ldomDocCacheImpl(C:/Users/Anatoly_Lebedev/.cr3/cache/ maxSize=33554432)
+2386/06/06 11:48:02.9530 INFO Initialize document cache in directory C:/Users/Anatoly_Lebedev/.cr3/cache/
+2386/06/06 11:48:02.9540 TRACE cache 0: 1kantor_il_y-vascript.fb2.63260d99.0.cr3 [3646794]
+2386/06/06 11:48:02.9540 TRACE cache 1: 1kantor_il_y-ascript.mobi.3a876dbe.0.cr3 [3474635]
+2386/06/06 11:48:02.9540 TRACE cache 2: 1kantor_il_y-ascript.epub.027e16cd.0.cr3 [2733354]
+2386/06/06 11:48:02.9540 TRACE cache 3: 1kantor_il_y-vascript.fb2.2c5718c8.0.cr3 [3635246]
+2386/06/06 11:48:02.9540 INFO Document cache index file read ok, 4 files in cache, 13490029 bytes
+2386/06/06 11:48:02.9540 TRACE cache item: 1kantor_il_y-vascript.fb2.63260d99.0.cr3 3646794
+2386/06/06 11:48:02.9540 TRACE cache item: 1kantor_il_y-ascript.mobi.3a876dbe.0.cr3 3474635
+2386/06/06 11:48:02.9540 TRACE cache item: 1kantor_il_y-ascript.epub.027e16cd.0.cr3 2733354
+2386/06/06 11:48:02.9540 TRACE cache item: 1kantor_il_y-vascript.fb2.2c5718c8.0.cr3 3635246
+2386/06/06 11:48:02.9540 INFO HyphDictionaryList::open()
+2386/06/06 11:48:02.9540 TRACE HyphDictionaryList::activate(Russian_EnUS_hyphen_(Alan).pdb)
+2386/06/06 11:48:02.9540 TRACE HyphDictionaryList::activate(ru.pattern)
+2386/06/06 11:48:02.9540 TRACE HyphDictionaryList::activate(@algorithm)
+2386/06/06 11:48:02.9540 INFO Turn on algorythmic hyphenation
+2386/06/06 11:48:02.9540 INFO Opening Book DB
+2386/06/06 11:48:02.9550 INFO Opening database C:/Users/Anatoly_Lebedev/.cr3/cr3db.sqlite
+2386/06/06 11:48:02.9560 TRACE Filling caches
+2386/06/06 11:48:02.9560 TRACE Filling series cache
+2386/06/06 11:48:02.9560 TRACE Filling folder cache
+2386/06/06 11:48:02.9560 TRACE Filling folder bookmark cache
+2386/06/06 11:48:02.9560 TRACE Filling author cache
+2386/06/06 11:48:02.9560 TRACE Filling catalogs cache
+2386/06/06 11:48:02.9560 INFO DB::fillCaches - 1 authors, 0 series, 6 folders, 0 folder bookmarks, 6 opds catalogs
+2386/06/06 11:48:02.9560 INFO Book DB opened
+2386/06/06 11:48:02.9560 INFO Setting up dir cache manager
+2386/06/06 11:48:02.9560 INFO Setting up resource resolver
+2386/06/06 11:48:02.9560 INFO Setting theme to Light
+2386/06/06 11:48:02.9560 INFO Setting up resources
+2386/06/06 11:48:02.9560 TRACE setupResourcesForScreenSize(600,800) dpi=300, min item size=100 (8mm), physical size: (50mm x 66mm)
+2386/06/06 11:48:02.9560 INFO screen density normal
+2386/06/06 11:48:02.9560 INFO Loading theme C:\JSlessons\Docs\Converted\cr3\res\themes\light\cr3theme.xml
+2386/06/06 11:48:02.9570 INFO Loading theme C:\JSlessons\Docs\Converted\cr3\res\themes\base\cr3theme.xml
+2386/06/06 11:48:02.9570 INFO CRResourceResolver::clearImageCache()
+2386/06/06 11:48:02.9580 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\hardcover.png
+2386/06/06 11:48:02.9580 TRACE CRCoverPageManager::clearImageCache()
+2386/06/06 11:48:02.9580 INFO CRCoverImageCache::clear()
+2386/06/06 11:48:02.9580 TRACE setupResourcesForScreenSize(500,800) dpi=120, min item size=40 (8mm), physical size: (104mm x 166mm)
+2386/06/06 11:48:02.9580 INFO screen density normal
+2386/06/06 11:48:02.9580 INFO Loading theme C:\JSlessons\Docs\Converted\cr3\res\themes\light\cr3theme.xml
+2386/06/06 11:48:02.9580 INFO Loading theme C:\JSlessons\Docs\Converted\cr3\res\themes\base\cr3theme.xml
+2386/06/06 11:48:02.9590 INFO CRResourceResolver::clearImageCache()
+2386/06/06 11:48:02.9590 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\hardcover.png
+2386/06/06 11:48:02.9590 TRACE CRCoverPageManager::clearImageCache()
+2386/06/06 11:48:02.9590 INFO CRCoverImageCache::clear()
+2386/06/06 11:48:03.0210 DEBUG TTS Voices available: 2
+2386/06/06 11:48:03.0210 DEBUG TTS Voice: id:'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0'' name:'Microsoft David Desktop - English (United States)' lang: en_US
+2386/06/06 11:48:03.0210 INFO Current TTS Voice: 'Microsoft David Desktop - English (United States)' lang: en_US
+2386/06/06 11:48:03.0210 DEBUG TTS Voice: id:'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0'' name:'Microsoft Zira Desktop - English (United States)' lang: en_US
+2386/06/06 11:48:03.0210 INFO CRUIMainWidget::CRUIMainWidget
+2386/06/06 11:48:03.0210 INFO Loading settings from C:/Users/Anatoly_Lebedev/.cr3/cr3.ini
+2386/06/06 11:48:03.0210 TRACE Starting thread executor
+2386/06/06 11:48:03.0220 TRACE Applying default settings.
+2386/06/06 11:48:03.0220 TRACE Creating Settings UI objects: browser settings
+2386/06/06 11:48:03.0220 TRACE Creating Settings UI objects: reader settings
+2386/06/06 11:48:03.0220 TRACE Creating text to speech options
+2386/06/06 11:48:03.0220 TRACE Creating CRUIHomeWidget
+2386/06/06 11:48:03.0220 TRACE Creating CRUIReadWidget
+2386/06/06 11:48:03.0220 INFO ldomNode::registerDocument() - new index = 0
+2386/06/06 11:48:03.0220 DEBUG setDocFlags(0000)
+2386/06/06 11:48:03.0220 DEBUG setDocFlag(0004, false)
+2386/06/06 11:48:03.0220 DEBUG setDocFlag(0002, true)
+2386/06/06 11:48:03.0220 DEBUG setDocFlag(0001, true)
+2386/06/06 11:48:03.0220 DEBUG setDocFlag(0008, true)
+2386/06/06 11:48:03.0230 DEBUG New stylesheet hash: 8931c16e
+2386/06/06 11:48:03.0230 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.0240 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.0240 DEBUG New font size: 25 requested: 25
+2386/06/06 11:48:03.0240 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.0250 DEBUG LVDocView::setStatusMode(0,  title  marks)
+2386/06/06 11:48:03.0250 INFO New battery state: 100
+2386/06/06 11:48:03.0250 TRACE Applying settings
+2386/06/06 11:48:03.0250 DEBUG LVDocView::setStatusMode(0,  title  marks)
+2386/06/06 11:48:03.0250 TRACE checking TOC
+2386/06/06 11:48:03.0250 TRACE remove old hyphenation method
+2386/06/06 11:48:03.0250 TRACE creating new TexHyph method
+2386/06/06 11:48:03.0250 TRACE loading from file
+2386/06/06 11:48:03.0300 DEBUG Dictionary is loaded successfully. Activating.
+2386/06/06 11:48:03.0300 TRACE Activation is done
+2386/06/06 11:48:03.0300 TRACE LVDocView::propsApply( 22 items )
+2386/06/06 11:48:03.0300 TRACE Setting normal colors
+2386/06/06 11:48:03.0300 DEBUG New font size: 17 requested: 17
+2386/06/06 11:48:03.0300 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.0310 TRACE Setting normal colors
+2386/06/06 11:48:03.0310 TRACE Setting normal colors
+2386/06/06 11:48:03.0310 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\tx_sand.jpg
+2386/06/06 11:48:03.0310 TRACE OpenGLWindow::setFullscreen(false)
+2386/06/06 11:48:03.0310 TRACE CRCoverPageManager::pause()
+2386/06/06 11:48:03.0310 TRACE No active coverpage task
+2386/06/06 11:48:03.0310 TRACE CRUIConfig::clearGraphicsCaches()
+2386/06/06 11:48:03.0310 INFO CRResourceResolver::clearImageCache()
+2386/06/06 11:48:03.0310 INFO GLImageCache::clear() map size = 0, pages = 0
+2386/06/06 11:48:03.0310 INFO GLGlyphCache::clear() map size = 0, pages size = 0
+2386/06/06 11:48:03.0310 TRACE OpenGLWindow::setFullscreen - showing windowed
+2386/06/06 11:48:03.0320 TRACE setupResourcesForScreenSize(500,800) dpi=120, min item size=40 (8mm), physical size: (104mm x 166mm)
+2386/06/06 11:48:03.0320 INFO screen density normal
+2386/06/06 11:48:03.0320 INFO Loading theme C:\JSlessons\Docs\Converted\cr3\res\themes\dark\cr3theme.xml
+2386/06/06 11:48:03.0320 INFO Loading theme C:\JSlessons\Docs\Converted\cr3\res\themes\base\cr3theme.xml
+2386/06/06 11:48:03.0320 INFO CRResourceResolver::clearImageCache()
+2386/06/06 11:48:03.0330 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\hardcover.png
+2386/06/06 11:48:03.0330 TRACE CRCoverPageManager::clearImageCache()
+2386/06/06 11:48:03.0330 INFO CRCoverImageCache::clear()
+2386/06/06 11:48:03.0330 TRACE Exiting CRUIMainWidget::CRUIMainWidget
+2386/06/06 11:48:03.0330 TRACE Starting thread executor
+2386/06/06 11:48:03.0450 INFO Pausing coverpage manager on start
+2386/06/06 11:48:03.0680 TRACE OpenGLWindow::resizeEvent
+2386/06/06 11:48:03.0680 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:03.1100 TRACE updateLastBook
+2386/06/06 11:48:03.1100 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\menu_more.png
+2386/06/06 11:48:03.1100 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.1110 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.1120 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\home_frame.9.png
+2386/06/06 11:48:03.1120 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.1120 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-normal\scrollbar_handle_horizontal.9.png
+2386/06/06 11:48:03.1130 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\folder_icons/64x64\downloads.png
+2386/06/06 11:48:03.1140 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\folder_icons/64x64\folder.png
+2386/06/06 11:48:03.1140 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\folder_icons/64x64\book_stack.png
+2386/06/06 11:48:03.1150 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\folder_icons/64x64\internet_add.png
+2386/06/06 11:48:03.1150 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\folder_icons/64x64\internet.png
+2386/06/06 11:48:03.1160 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\tx_wood_dark_v3.jpg
+2386/06/06 11:48:03.1160 TRACE Creating CRGLSupport instance
+2386/06/06 11:48:03.1160 TRACE CRGLSupportImpl::init() -- calling initializeOpenGLFunctions()
+2386/06/06 11:48:03.1160 TRACE CRDirCache::scan - adding new task @recent queueLength was 0
+2386/06/06 11:48:03.1160 TRACE CRDirCache::scan - added new task @recent queueLength = 1. Calling notifyAll
+2386/06/06 11:48:03.1160 INFO CRDirCache thread started
+2386/06/06 11:48:03.1160 TRACE CRDirCache::run - before popFront queueLength was 1
+2386/06/06 11:48:03.1160 TRACE CRDirCache::run - after popFront queueLength is 0
+2386/06/06 11:48:03.1160 TRACE CRDirCache::run :: calling refresh()
+2386/06/06 11:48:03.1160 DEBUG File to open on start: C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:03.1160 INFO 2386/06/06 11:48:03.1160 DEBUG setLastBookFilename(C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2)
+2386/06/06 11:48:03.1160 TRACE CRBookDB::loadRecentBooks entered
+CRCoverPageManager::run thread started
+2386/06/06 11:48:03.1160 TRACE CRCoverPageManager::run :: paused. Waiting...
+2386/06/06 11:48:03.1160 INFO Loaded 4 last position items
+2386/06/06 11:48:03.1170 TRACE CRBookDB::loadRecentBooks exiting
+2386/06/06 11:48:03.1170 WARN Recent book file does not exist C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:03.1170 WARN Recent book file does not exist C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.mobi
+2386/06/06 11:48:03.1170 WARN Recent book file does not exist C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.epub
+2386/06/06 11:48:03.1170 TRACE CRDirCache::run :: posting callback to GUI thread
+2386/06/06 11:48:03.1170 TRACE CRDirCache::run :: no tasks - calling monitor wait
+2386/06/06 11:48:03.1170 TRACE CRUIMainWidget::openBookFromFile C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:03.1170 INFO Opening book from file C:\JSlessons\Docs\Converted\1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2. Scanning directory C:\JSlessons\Docs\Converted\ first.
+2386/06/06 11:48:03.1170 TRACE CRUIMainWidget::showSlowOperationPopup()
+2386/06/06 11:48:03.1170 INFO Max OpenGL texture size: 16384
+2386/06/06 11:48:03.1170 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\list_shadow_vertical.9.png
+2386/06/06 11:48:03.1180 TRACE created image cache page 440 x 768
+2386/06/06 11:48:03.1320 TRACE created image cache page 1024 x 1024
+2386/06/06 11:48:03.1390 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-normal\scrollbar_background_horizontal.9.png
+2386/06/06 11:48:03.1650 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\spinner_white_48.png
+2386/06/06 11:48:03.1660 INFO Starting background directory scan for C:\JSlessons\Docs\Converted\
+2386/06/06 11:48:03.1660 TRACE CRDirCache::scan - adding new task C:\JSlessons\Docs\Converted\ queueLength was 0
+2386/06/06 11:48:03.1660 TRACE CRDirCache::scan - added new task C:\JSlessons\Docs\Converted\ queueLength = 1. Calling notifyAll
+2386/06/06 11:48:03.1660 TRACE CRDirCache::run :: done monitor wait - queue length = 1
+2386/06/06 11:48:03.1660 TRACE CRDirCache::run - before popFront queueLength was 1
+2386/06/06 11:48:03.1660 TRACE CRDirCache::run - after popFront queueLength is 0
+2386/06/06 11:48:03.1660 TRACE CRDirCache::run :: calling refresh()
+2386/06/06 11:48:03.1660 TRACE Scanning directory C:\JSlessons\Docs\Converted\
+2386/06/06 11:48:03.1660 TRACE subdir: C:\JSlessons\Docs\Converted\cr3
+2386/06/06 11:48:03.1720 TRACE 1 entries for load
+2386/06/06 11:48:03.1720 TRACE 0 entries loaded, 1 unknown
+2386/06/06 11:48:03.1720 TRACE 1 entries for parse
+2386/06/06 11:48:03.1720 TRACE going to parse C:\JSlessons\Docs\Converted\online-convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:03.1730 TRACE parsing book properties for C:\JSlessons\Docs\Converted\online-convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:03.1730 TRACE GetBookProperties() : trying to parse as FB2
+2386/06/06 11:48:03.1730 INFO ldomNode::registerDocument() - new index = 1
+2386/06/06 11:48:03.1730 TRACE checking format...
+2386/06/06 11:48:03.1730 TRACE parsing...
+2386/06/06 11:48:03.1740 TRACE parsed
+2386/06/06 11:48:03.1740 INFO ldomNode::unregisterDocument() - for index 1
+2386/06/06 11:48:03.1740 TRACE 1 entries for save
+2386/06/06 11:48:03.1790 TRACE inserting authors
+2386/06/06 11:48:03.1850 TRACE done scanning of directory
+2386/06/06 11:48:03.1850 TRACE CRDirCache::run :: posting callback to GUI thread
+2386/06/06 11:48:03.1850 TRACE CRDirCache::run :: no tasks - calling monitor wait
+2386/06/06 11:48:03.2240 INFO Resuming coverpage manager after draw
+2386/06/06 11:48:03.2250 TRACE CRCoverPageManager::resume()
+2386/06/06 11:48:03.2250 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:03.2250 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:03.2250 TRACE CRUIMainWidget::onDirectoryScanFinished -- scan finished for pending book open folder
+2386/06/06 11:48:03.2250 ERROR hideSlowOperationPopup() called twice
+2386/06/06 11:48:03.2250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:03.2250 TRACE updateLastBook
+2386/06/06 11:48:03.2260 TRACE CRCoverImageCache::draw called for C:/Users/Anatoly_Lebedev/.cr3/cr3_manual.fb2
+2386/06/06 11:48:03.2260 DEBUG scanBookCoverInternal(C:/Users/Anatoly_Lebedev/.cr3/cr3_manual.fb2) called
+2386/06/06 11:48:03.2260 TRACE FB2 Cover stream size = 0
+2386/06/06 11:48:03.2260 DEBUG scanBookCoverInternal() : returned cover page stream
+2386/06/06 11:48:03.2260 TRACE Adding item C:/Users/Anatoly_Lebedev/.cr3/cr3_manual.fb2 type=2 size=0
+2386/06/06 11:48:03.2280 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\toolbar_shadow.9.png
+2386/06/06 11:48:03.2310 TRACE drawing default cover page 231 x 330
+2386/06/06 11:48:03.2320 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:03.2370 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.7540 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.8330 TRACE CRUIMainWidget::showSlowOperationPopup()
+2386/06/06 11:48:05.8340 INFO Starting background directory scan for C:\
+2386/06/06 11:48:05.8350 TRACE CRDirCache::scan - adding new task C:\ queueLength was 0
+2386/06/06 11:48:05.8350 TRACE CRDirCache::scan - added new task C:\ queueLength = 1. Calling notifyAll
+2386/06/06 11:48:05.8350 TRACE CRDirCache::run :: done monitor wait - queue length = 1
+2386/06/06 11:48:05.8350 TRACE CRDirCache::run - before popFront queueLength was 1
+2386/06/06 11:48:05.8350 TRACE CRDirCache::run - after popFront queueLength is 0
+2386/06/06 11:48:05.8350 TRACE CRDirCache::run :: calling refresh()
+2386/06/06 11:48:05.8350 TRACE Scanning directory C:\
+2386/06/06 11:48:05.8350 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.8350 TRACE subdir: C:\!
+2386/06/06 11:48:05.8350 TRACE subdir: C:\#
+2386/06/06 11:48:05.8350 TRACE subdir: C:\#BYLocalITlinks
+2386/06/06 11:48:05.8350 TRACE subdir: C:\#CMD
+2386/06/06 11:48:05.8350 TRACE subdir: C:\#LogitechDock
+2386/06/06 11:48:05.8350 TRACE subdir: C:\$GetCurrent
+2386/06/06 11:48:05.8350 TRACE subdir: C:\$RECYCLE.BIN
+2386/06/06 11:48:05.8350 TRACE subdir: C:\$WINDOWS.~BT
+2386/06/06 11:48:05.8350 TRACE subdir: C:\$Windows.~WS
+2386/06/06 11:48:05.8350 TRACE subdir: C:\acroldr
+2386/06/06 11:48:05.8350 TRACE subdir: C:\AMD
+2386/06/06 11:48:05.8350 TRACE subdir: C:\angular
+2386/06/06 11:48:05.8350 TRACE subdir: C:\angular4novice
+2386/06/06 11:48:05.8350 TRACE subdir: C:\Bin
+2386/06/06 11:48:05.8350 TRACE subdir: C:\Boot
+2386/06/06 11:48:05.8350 TRACE subdir: C:\BootCamp
+2386/06/06 11:48:05.8360 TRACE subdir: C:\DC
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Documents and Settings
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Downloads
+2386/06/06 11:48:05.8360 TRACE subdir: C:\EFI
+2386/06/06 11:48:05.8360 TRACE subdir: C:\ESD
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Flash
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Games
+2386/06/06 11:48:05.8360 TRACE subdir: C:\GT08
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Intel
+2386/06/06 11:48:05.8360 TRACE subdir: C:\JSlessons
+2386/06/06 11:48:05.8360 TRACE subdir: C:\MemuHyperv VMs
+2386/06/06 11:48:05.8360 TRACE subdir: C:\MSOCache
+2386/06/06 11:48:05.8360 TRACE subdir: C:\OneDriveTemp
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Oracle_11_2_x32
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Program Files
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Program Files (x86)
+2386/06/06 11:48:05.8360 TRACE subdir: C:\ProgramData
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Recovery
+2386/06/06 11:48:05.8360 TRACE subdir: C:\redmi4a
+2386/06/06 11:48:05.8360 TRACE subdir: C:\RemixOS
+2386/06/06 11:48:05.8360 TRACE subdir: C:\SMSTSLog
+2386/06/06 11:48:05.8360 TRACE subdir: C:\SWSetup
+2386/06/06 11:48:05.8360 TRACE subdir: C:\System Volume Information
+2386/06/06 11:48:05.8360 TRACE subdir: C:\TC
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Temp
+2386/06/06 11:48:05.8360 TRACE subdir: C:\tmp
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Users
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Windows
+2386/06/06 11:48:05.8360 TRACE subdir: C:\Windows10Upgrade
+2386/06/06 11:48:05.8360 TRACE subdir: C:\XiaoMi
+2386/06/06 11:48:05.8360 TRACE 0 entries for load
+2386/06/06 11:48:05.8360 TRACE 0 entries loaded, 0 unknown
+2386/06/06 11:48:05.8360 TRACE 0 entries for parse
+2386/06/06 11:48:05.8360 TRACE 0 entries for save
+2386/06/06 11:48:05.8360 TRACE done scanning of directory
+2386/06/06 11:48:05.8360 TRACE CRDirCache::run :: posting callback to GUI thread
+2386/06/06 11:48:05.8360 TRACE CRDirCache::run :: no tasks - calling monitor wait
+2386/06/06 11:48:05.8850 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:05.8850 TRACE CRUIMainWidget::onDirectoryScanFinished -- scan finished for pending folder
+2386/06/06 11:48:05.8860 INFO Directory C:\ is ready
+2386/06/06 11:48:05.8860 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\back.png
+2386/06/06 11:48:05.8860 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-normal\scrollbar_handle_vertical.9.png
+2386/06/06 11:48:05.8870 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\divider_dark_v3.png
+2386/06/06 11:48:05.8880 TRACE CRCoverPageManager::cancelAll
+2386/06/06 11:48:05.8890 TRACE starting animation 0 -> 1
+2386/06/06 11:48:05.8920 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-normal\scrollbar_background_vertical.9.png
+2386/06/06 11:48:05.8920 TRACE created image cache page 502 x 10
+2386/06/06 11:48:05.8950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.9080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.9250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.9420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.9580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.9770 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:05.9930 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0090 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0270 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.0920 TRACE stopping animation 0, 1
+2386/06/06 11:48:06.1080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.1250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.2260 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.4150 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.4320 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.4420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.4590 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.4780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.4950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:06.5110 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:07.7760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.4650 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.5110 TRACE CRUIMainWidget::showSlowOperationPopup()
+2386/06/06 11:48:08.5120 INFO Starting background directory scan for C:\JSlessons
+2386/06/06 11:48:08.5120 TRACE CRDirCache::scan - adding new task C:\JSlessons queueLength was 0
+2386/06/06 11:48:08.5120 TRACE CRDirCache::scan - added new task C:\JSlessons queueLength = 1. Calling notifyAll
+2386/06/06 11:48:08.5130 TRACE CRDirCache::run :: done monitor wait - queue length = 1
+2386/06/06 11:48:08.5130 TRACE CRDirCache::run - before popFront queueLength was 1
+2386/06/06 11:48:08.5130 TRACE CRDirCache::run - after popFront queueLength is 0
+2386/06/06 11:48:08.5130 TRACE CRDirCache::run :: calling refresh()
+2386/06/06 11:48:08.5130 TRACE Scanning directory C:\JSlessons
+2386/06/06 11:48:08.5130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.5130 TRACE subdir: C:\JSlessons\css
+2386/06/06 11:48:08.5130 TRACE subdir: C:\JSlessons\Docs
+2386/06/06 11:48:08.5130 TRACE subdir: C:\JSlessons\fonts
+2386/06/06 11:48:08.5130 TRACE subdir: C:\JSlessons\images
+2386/06/06 11:48:08.5130 TRACE subdir: C:\JSlessons\js
+2386/06/06 11:48:08.5130 TRACE subdir: C:\JSlessons\Soft
+2386/06/06 11:48:08.5130 TRACE 1 entries for load
+2386/06/06 11:48:08.5130 TRACE 1 entries loaded, 0 unknown
+2386/06/06 11:48:08.5130 TRACE 0 entries for parse
+2386/06/06 11:48:08.5130 TRACE 0 entries for save
+2386/06/06 11:48:08.5130 TRACE done scanning of directory
+2386/06/06 11:48:08.5130 TRACE CRDirCache::run :: posting callback to GUI thread
+2386/06/06 11:48:08.5130 TRACE CRDirCache::run :: no tasks - calling monitor wait
+2386/06/06 11:48:08.5630 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:08.5630 TRACE CRUIMainWidget::onDirectoryScanFinished -- scan finished for pending folder
+2386/06/06 11:48:08.5630 INFO Directory C:\JSlessons is ready
+2386/06/06 11:48:08.5630 TRACE CRCoverPageManager::cancelAll
+2386/06/06 11:48:08.5630 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.5640 TRACE CRCoverImageCache::draw called for C:\JSlessons\index.html
+2386/06/06 11:48:08.5640 DEBUG scanBookCoverInternal(C:\JSlessons\index.html) called
+2386/06/06 11:48:08.5640 DEBUG scanBookCoverInternal() : cover page data not found
+2386/06/06 11:48:08.5640 TRACE Adding item C:\JSlessons\index.html type=2 size=0
+2386/06/06 11:48:08.5670 TRACE drawing default cover page 198 x 285
+2386/06/06 11:48:08.5680 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:08.6150 TRACE starting animation 1 -> 2
+2386/06/06 11:48:08.6210 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.6290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.6450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.6620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.6780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.6950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.7130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.7310 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.7450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.7620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.7780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.7960 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.8120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.8280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.8290 TRACE stopping animation 1, 2
+2386/06/06 11:48:08.8450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:08.8620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.6010 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.6490 TRACE CRUIMainWidget::showSlowOperationPopup()
+2386/06/06 11:48:09.6500 INFO Starting background directory scan for C:\JSlessons\Docs
+2386/06/06 11:48:09.6500 TRACE CRDirCache::scan - adding new task C:\JSlessons\Docs queueLength was 0
+2386/06/06 11:48:09.6500 TRACE CRDirCache::scan - added new task C:\JSlessons\Docs queueLength = 1. Calling notifyAll
+2386/06/06 11:48:09.6500 TRACE CRDirCache::run :: done monitor wait - queue length = 1
+2386/06/06 11:48:09.6500 TRACE CRDirCache::run - before popFront queueLength was 1
+2386/06/06 11:48:09.6500 TRACE CRDirCache::run - after popFront queueLength is 0
+2386/06/06 11:48:09.6500 TRACE CRDirCache::run :: calling refresh()
+2386/06/06 11:48:09.6500 TRACE Scanning directory C:\JSlessons\Docs
+2386/06/06 11:48:09.6500 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.6500 TRACE subdir: C:\JSlessons\Docs\Converted
+2386/06/06 11:48:09.6510 TRACE subdir: C:\JSlessons\Docs\Eng
+2386/06/06 11:48:09.6510 TRACE subdir: C:\JSlessons\Docs\Scan
+2386/06/06 11:48:09.6510 TRACE 0 entries for load
+2386/06/06 11:48:09.6510 TRACE 0 entries loaded, 0 unknown
+2386/06/06 11:48:09.6510 TRACE 0 entries for parse
+2386/06/06 11:48:09.6510 TRACE 0 entries for save
+2386/06/06 11:48:09.6510 TRACE done scanning of directory
+2386/06/06 11:48:09.6510 TRACE CRDirCache::run :: posting callback to GUI thread
+2386/06/06 11:48:09.6510 TRACE CRDirCache::run :: no tasks - calling monitor wait
+2386/06/06 11:48:09.7010 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:09.7010 TRACE CRUIMainWidget::onDirectoryScanFinished -- scan finished for pending folder
+2386/06/06 11:48:09.7010 INFO Directory C:\JSlessons\Docs is ready
+2386/06/06 11:48:09.7020 TRACE CRCoverPageManager::cancelAll
+2386/06/06 11:48:09.7020 TRACE starting animation 2 -> 3
+2386/06/06 11:48:09.7020 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.7120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.7280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.7440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.7610 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.7800 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.7950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.8120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.8280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.8450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.8650 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.8780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.8960 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.9120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.9120 TRACE stopping animation 2, 3
+2386/06/06 11:48:09.9290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:09.9460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.0400 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.0880 TRACE CRUIMainWidget::showSlowOperationPopup()
+2386/06/06 11:48:11.0890 INFO Starting background directory scan for C:\JSlessons\Docs\Converted
+2386/06/06 11:48:11.0890 TRACE CRDirCache::scan - adding new task C:\JSlessons\Docs\Converted queueLength was 0
+2386/06/06 11:48:11.0890 TRACE CRDirCache::scan - added new task C:\JSlessons\Docs\Converted queueLength = 1. Calling notifyAll
+2386/06/06 11:48:11.0890 TRACE CRDirCache::run :: done monitor wait - queue length = 1
+2386/06/06 11:48:11.0890 TRACE CRDirCache::run - before popFront queueLength was 1
+2386/06/06 11:48:11.0890 TRACE CRDirCache::run - after popFront queueLength is 0
+2386/06/06 11:48:11.0890 TRACE CRDirCache::run :: calling refresh()
+2386/06/06 11:48:11.0890 TRACE Scanning directory C:\JSlessons\Docs\Converted
+2386/06/06 11:48:11.0890 TRACE subdir: C:\JSlessons\Docs\Converted\cr3
+2386/06/06 11:48:11.0910 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.0940 TRACE 2 entries for load
+2386/06/06 11:48:11.0940 TRACE 1 entries loaded, 1 unknown
+2386/06/06 11:48:11.0940 TRACE 1 entries for parse
+2386/06/06 11:48:11.0940 TRACE going to parse C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:11.0940 TRACE parsing book properties for C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:11.0940 TRACE GetBookProperties() : trying to parse as FB2
+2386/06/06 11:48:11.0940 INFO ldomNode::registerDocument() - new index = 2
+2386/06/06 11:48:11.0940 TRACE checking format...
+2386/06/06 11:48:11.0950 TRACE parsing...
+2386/06/06 11:48:11.0950 TRACE parsed
+2386/06/06 11:48:11.0950 INFO ldomNode::unregisterDocument() - for index 2
+2386/06/06 11:48:11.0950 TRACE 1 entries for save
+2386/06/06 11:48:11.1000 TRACE inserting authors
+2386/06/06 11:48:11.1040 TRACE done scanning of directory
+2386/06/06 11:48:11.1040 TRACE CRDirCache::run :: posting callback to GUI thread
+2386/06/06 11:48:11.1040 TRACE CRDirCache::run :: no tasks - calling monitor wait
+2386/06/06 11:48:11.1420 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:11.1420 TRACE CRUIMainWidget::onDirectoryScanFinished -- scan finished for pending folder
+2386/06/06 11:48:11.1420 INFO Directory C:\JSlessons\Docs\Converted is ready
+2386/06/06 11:48:11.1430 TRACE CRCoverPageManager::cancelAll
+2386/06/06 11:48:11.1430 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.1430 TRACE CRCoverImageCache::draw called for C:\JSlessons\Docs\Converted\online-convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:11.1430 DEBUG scanBookCoverInternal(C:\JSlessons\Docs\Converted\online-convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2) called
+2386/06/06 11:48:11.1430 TRACE FB2 Cover stream size = 0
+2386/06/06 11:48:11.1430 DEBUG scanBookCoverInternal() : returned cover page stream
+2386/06/06 11:48:11.1430 TRACE Adding item C:\JSlessons\Docs\Converted\online-convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2 type=2 size=0
+2386/06/06 11:48:11.1440 TRACE drawing default cover page 198 x 285
+2386/06/06 11:48:11.1440 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:11.1460 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:11.1470 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:11.1490 TRACE CRCoverImageCache::draw called for C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:11.1490 DEBUG scanBookCoverInternal(C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2) called
+2386/06/06 11:48:11.1500 TRACE FB2 Cover stream size = 0
+2386/06/06 11:48:11.1500 DEBUG scanBookCoverInternal() : returned cover page stream
+2386/06/06 11:48:11.1500 TRACE Adding item C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2 type=2 size=0
+2386/06/06 11:48:11.1510 TRACE drawing default cover page 198 x 285
+2386/06/06 11:48:11.1510 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:11.1930 TRACE starting animation 3 -> 4
+2386/06/06 11:48:11.1980 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.2120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.2290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.2470 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.2620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.2810 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.2960 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3630 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3960 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.3960 TRACE stopping animation 3, 4
+2386/06/06 11:48:11.4120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:11.4290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:28.9840 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.0580 DEBUG Opening book C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:29.0580 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\left_circular.png
+2386/06/06 11:48:29.0580 TRACE LVDocView::checkRender() : render is required
+2386/06/06 11:48:29.0590 DEBUG Loaded font C:\WINDOWS\Fonts\arial.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:29.0590 TRACE ldomDocument::setRenderProps() - doc flags changed
+2386/06/06 11:48:29.0590 TRACE ldomDocument::setRenderProps() - style is changed
+2386/06/06 11:48:29.0590 TRACE ldomDocument::setRenderProps() - font is changed
+2386/06/06 11:48:29.0590 TRACE ldomDocument::setRenderProps() - page height is changed
+2386/06/06 11:48:29.0590 TRACE ldomDocument::setRenderProps() - page width is changed
+2386/06/06 11:48:29.0590 DEBUG Render(width=150, height=147, fontSize=17, currentFontSize=17, 0 char width=9)
+2386/06/06 11:48:29.0590 INFO Render is called for width 150, pageHeight=147, fontFace=Arial, docFlags=11
+2386/06/06 11:48:29.0590 TRACE initializing default style...
+2386/06/06 11:48:29.0590 INFO checkRenderContext: style is not set for root node
+2386/06/06 11:48:29.0590 INFO Calculating style hash...  elemCount=11, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=b977a19b
+2386/06/06 11:48:29.0590 INFO checkRenderContext: Style hash doesn't match 78b52db0!=0
+2386/06/06 11:48:29.0590 INFO rendering context is changed - full render required...
+2386/06/06 11:48:29.0590 TRACE init format data...
+2386/06/06 11:48:29.0590 TRACE Dropping existing styles...
+2386/06/06 11:48:29.0590 TRACE Save stylesheet...
+2386/06/06 11:48:29.0590 TRACE Init node styles...
+2386/06/06 11:48:29.0590 TRACE applyDocumentStyleSheet() : No internal FB2 stylesheet found under /FictionBook/stylesheet
+2386/06/06 11:48:29.0590 DEBUG Loaded font C:\WINDOWS\Fonts\timesbd.ttf [0]: faceName=Times New Roman, 
+2386/06/06 11:48:29.0590 TRACE Restoring stylesheet...
+2386/06/06 11:48:29.0590 TRACE init render method...
+2386/06/06 11:48:29.0590 INFO Calculating style hash...  elemCount=11, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=c4c90aa9
+2386/06/06 11:48:29.0590 INFO Updating render properties: styleHash=3bef5fbe, stylesheetHash=49e86368, docflags=b, width=96, height=93
+2386/06/06 11:48:29.0590 INFO Final block count: 2
+2386/06/06 11:48:29.0590 TRACE rendering...
+2386/06/06 11:48:29.0610 DEBUG LVFontCache::gc() : 16 fonts still used, 0 fonts dropped
+2386/06/06 11:48:29.0610 TRACE finalizing... fonts.length=2
+2386/06/06 11:48:29.0610 INFO Calculating style hash...  elemCount=11, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=c4c90aa9
+2386/06/06 11:48:29.0610 INFO Updating render properties: styleHash=3bef5fbe, stylesheetHash=49e86368, docflags=b, width=96, height=93
+2386/06/06 11:48:29.0610 INFO *** Document memory usage: elements:11, textNodes:3, ptext=(32768 uncompressed), ptelems=(16384 uncompressed), rects=(32768 uncompressed), nodestyles=(16384 uncompressed), styles:6, fonts:2, renderedNodes:2, totalNodes:14(0Kb), mutableElements:0(~0Kb)
+2386/06/06 11:48:29.0610 DEBUG LVFontCache::gc() : 16 fonts still used, 0 fonts dropped
+2386/06/06 11:48:29.0610 DEBUG Updating selections...
+2386/06/06 11:48:29.0610 TRACE updateSelections() : selection count = 0
+2386/06/06 11:48:29.0610 DEBUG Render is finished
+2386/06/06 11:48:29.0610 INFO Check whether to swap: file size = 0, min size to cache = 300000
+2386/06/06 11:48:29.0610 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\fantasy.png
+2386/06/06 11:48:29.0610 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\moon.png
+2386/06/06 11:48:29.0610 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\document.png
+2386/06/06 11:48:29.0610 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\arrow.png
+2386/06/06 11:48:29.0620 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\bookmark.png
+2386/06/06 11:48:29.0620 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\google_web_search.png
+2386/06/06 11:48:29.0620 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\listen.png
+2386/06/06 11:48:29.0620 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\up_circular.png
+2386/06/06 11:48:29.0620 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\down_circular.png
+2386/06/06 11:48:29.0620 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\help.png
+2386/06/06 11:48:29.0630 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\icons/32x32\expand.png
+2386/06/06 11:48:29.0630 TRACE LVDocView:Resize(749x435)
+2386/06/06 11:48:29.0630 TRACE LVDocView:Resize() :  new size: 749x435
+2386/06/06 11:48:29.0630 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:29.0630 INFO ldomNode::unregisterDocument() - for index 0
+2386/06/06 11:48:29.0630 INFO ldomNode::registerDocument() - new index = 3
+2386/06/06 11:48:29.0630 DEBUG setDocFlags(0000)
+2386/06/06 11:48:29.0630 DEBUG setDocFlag(0004, false)
+2386/06/06 11:48:29.0630 DEBUG setDocFlag(0002, true)
+2386/06/06 11:48:29.0630 DEBUG setDocFlag(0001, true)
+2386/06/06 11:48:29.0630 DEBUG setDocFlag(0008, true)
+2386/06/06 11:48:29.0630 DEBUG New stylesheet hash: 8931c16e
+2386/06/06 11:48:29.0630 TRACE CRUIMainWidget::showSlowOperationPopup()
+2386/06/06 11:48:29.0640 DEBUG setLastBookFilename(C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2)
+2386/06/06 11:48:29.0640 INFO Loading book in background thread
+2386/06/06 11:48:29.0640 INFO ldomNode::unregisterDocument() - for index 3
+2386/06/06 11:48:29.0640 DEBUG LoadDocument(C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2) textMode=autoformat
+2386/06/06 11:48:29.0640 INFO Loading document C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2 : fn=go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2, dir=C:\JSlessons\Docs\Converted\
+2386/06/06 11:48:29.0650 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.0700 INFO ldomNode::registerDocument() - new index = 4
+2386/06/06 11:48:29.0700 DEBUG setDocFlags(0000)
+2386/06/06 11:48:29.0700 DEBUG setDocFlag(0004, false)
+2386/06/06 11:48:29.0700 DEBUG setDocFlag(0002, true)
+2386/06/06 11:48:29.0700 DEBUG setDocFlag(0001, true)
+2386/06/06 11:48:29.0700 DEBUG setDocFlag(0008, true)
+2386/06/06 11:48:29.0700 DEBUG Check whether document go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2 crc 1681a128 exists in cache
+2386/06/06 11:48:29.0710 DEBUG New stylesheet hash: 8931c16e
+2386/06/06 11:48:29.0710 TRACE ldomDocument::setRenderProps() - doc flags changed
+2386/06/06 11:48:29.0710 TRACE ldomDocument::setRenderProps() - style is changed
+2386/06/06 11:48:29.0710 TRACE ldomDocument::setRenderProps() - font is changed
+2386/06/06 11:48:29.0710 TRACE ldomDocument::setRenderProps() - page height is changed
+2386/06/06 11:48:29.0710 TRACE ldomDocument::setRenderProps() - page width is changed
+2386/06/06 11:48:29.0710 INFO ldomDocument::openCacheFile() - looking for cache file
+2386/06/06 11:48:29.0710 TRACE getPersistenceFlags() returned 0
+2386/06/06 11:48:29.0710 DEBUG ldomDocCache::openExisting(go4convert-1-vascript.fb2.1681a128.0.cr3)
+2386/06/06 11:48:29.0710 ERROR ldomDocCache::openExisting - File go4convert-1-vascript.fb2.1681a128.0.cr3 is not found in cache index
+2386/06/06 11:48:29.0710 INFO Cannot open document from cache. Need to read fully
+2386/06/06 11:48:29.0710 INFO Cannot get document from cache, parsing...
+2386/06/06 11:48:29.0710 TRACE OnLoadFileFormatDetected cssFile=C:\JSlessons\Docs\Converted\cr3\res\css\fb2.css
+2386/06/06 11:48:29.0720 DEBUG New stylesheet hash: 0fb50ac9
+2386/06/06 11:48:29.0730 DEBUG Loaded font C:\WINDOWS\Fonts\ariali.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:29.0740 DEBUG Loaded font C:\WINDOWS\Fonts\arialbd.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:29.0740 DEBUG Loaded font C:\WINDOWS\Fonts\ariali.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:29.0780 DEBUG Loaded font C:\WINDOWS\Fonts\arialbi.ttf [0]: faceName=Arial, 
+2386/06/06 11:48:29.1160 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.1670 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.2190 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.2700 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.2850 INFO ldomDocument::createCacheFile() - initialized swapping of document go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2 to cache file
+2386/06/06 11:48:29.2850 TRACE getPersistenceFlags() returned 0
+2386/06/06 11:48:29.2870 TRACE cache item: go4convert-1-vascript.fb2.1681a128.0.cr3 3968191
+2386/06/06 11:48:29.2870 TRACE cache item: 1kantor_il_y-vascript.fb2.63260d99.0.cr3 3646794
+2386/06/06 11:48:29.2870 TRACE cache item: 1kantor_il_y-ascript.mobi.3a876dbe.0.cr3 3474635
+2386/06/06 11:48:29.2870 TRACE cache item: 1kantor_il_y-ascript.epub.027e16cd.0.cr3 2733354
+2386/06/06 11:48:29.2870 TRACE cache item: 1kantor_il_y-vascript.fb2.2c5718c8.0.cr3 3635246
+2386/06/06 11:48:29.2870 TRACE Writing cache index
+2386/06/06 11:48:29.2880 ERROR CacheFile::read: Block 15:0 not found in file
+2386/06/06 11:48:29.3210 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.3380 INFO *** Document memory usage: elements:24273, textNodes:22630, ptext=(2719744 uncompressed), ptelems=(890480 uncompressed), rects=(0 uncompressed), nodestyles=(98304 uncompressed), styles:10, fonts:5, renderedNodes:0, totalNodes:46903(732Kb), mutableElements:1(~0Kb)
+2386/06/06 11:48:29.3420 INFO Calculating style hash...  elemCount=24273, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=85173961
+2386/06/06 11:48:29.3420 INFO Updating render properties: styleHash=b7977276, stylesheetHash=3cbec203, docflags=b, width=144, height=18a
+2386/06/06 11:48:29.3420 INFO *** Document memory usage: elements:24273, textNodes:22630, ptext=(2752384 uncompressed), ptelems=(890480 uncompressed), rects=(0 uncompressed), nodestyles=(98304 uncompressed), styles:10, fonts:5, renderedNodes:0, totalNodes:46903(732Kb), mutableElements:1(~0Kb)
+2386/06/06 11:48:29.3440 INFO Calculating style hash...  elemCount=24273, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=85173961
+2386/06/06 11:48:29.3440 INFO Updating render properties: styleHash=b7977276, stylesheetHash=3cbec203, docflags=b, width=144, height=18a
+2386/06/06 11:48:29.3440 INFO *** Document memory usage: elements:24273, textNodes:22630, ptext=(2752384 uncompressed), ptelems=(890480 uncompressed), rects=(0 uncompressed), nodestyles=(98304 uncompressed), styles:10, fonts:5, renderedNodes:0, totalNodes:46903(732Kb), mutableElements:1(~0Kb)
+2386/06/06 11:48:29.3440 INFO Loading is finished successfully
+2386/06/06 11:48:29.3440 INFO Rendering book in background thread
+2386/06/06 11:48:29.3450 DEBUG Render(width=324, height=394, fontSize=17, currentFontSize=17, 0 char width=9)
+2386/06/06 11:48:29.3450 INFO Render is called for width 324, pageHeight=394, fontFace=Arial, docFlags=11
+2386/06/06 11:48:29.3450 TRACE initializing default style...
+2386/06/06 11:48:29.3470 INFO Calculating style hash...  elemCount=24273, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=85173961
+2386/06/06 11:48:29.3470 INFO Final block count: 21520
+2386/06/06 11:48:29.3470 TRACE rendering...
+2386/06/06 11:48:29.3730 TRACE BookLoadedNotificationTask.run()
+2386/06/06 11:48:29.3730 INFO Document loaded: C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2 successfully
+2386/06/06 11:48:29.3730 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.4230 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.4740 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.5250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.5760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.6120 DEBUG LVFontCache::gc() : 20 fonts still used, 0 fonts dropped
+2386/06/06 11:48:29.6120 TRACE finalizing... fonts.length=5
+2386/06/06 11:48:29.6160 INFO Calculating style hash...  elemCount=24273, globalHash=91de7b9e, docFlags=0000000b, nodeStyleHash=85173961
+2386/06/06 11:48:29.6160 INFO Updating render properties: styleHash=b7977276, stylesheetHash=3cbec203, docflags=b, width=144, height=18a
+2386/06/06 11:48:29.6160 INFO *** Document memory usage: elements:24273, textNodes:22630, ptext=(2682224 uncompressed), ptelems=(890480 uncompressed), rects=(393216 uncompressed), nodestyles=(98304 uncompressed), styles:10, fonts:5, renderedNodes:32, totalNodes:46903(732Kb), mutableElements:1(~0Kb)
+2386/06/06 11:48:29.6160 DEBUG LVFontCache::gc() : 20 fonts still used, 0 fonts dropped
+2386/06/06 11:48:29.6160 DEBUG Updating selections...
+2386/06/06 11:48:29.6160 TRACE updateSelections() : selection count = 0
+2386/06/06 11:48:29.6160 DEBUG Render is finished
+2386/06/06 11:48:29.6160 INFO Check whether to swap: file size = 3968191, min size to cache = 300000
+2386/06/06 11:48:29.6160 TRACE LVDocView::swapToCache(fs = 3968191)
+2386/06/06 11:48:29.6160 TRACE ldomDocument::swapToCache entered
+2386/06/06 11:48:29.6160 INFO Cache file is created, but document saving is postponed
+2386/06/06 11:48:29.6180 TRACE LVDocView::swapToCache(fs = 3968191)
+2386/06/06 11:48:29.6180 TRACE ldomDocument::swapToCache entered
+2386/06/06 11:48:29.6180 TRACE ldomDocument::saveChanges(timeout=-1 stage=0)
+2386/06/06 11:48:29.6180 INFO lxmlDocBase::persist() invoked - converting all nodes to persistent objects
+2386/06/06 11:48:29.6180 TRACE ldomDocument::saveChanges() - element storage
+2386/06/06 11:48:29.6270 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.6300 TRACE ldomDocument::saveChanges() - text storage
+2386/06/06 11:48:29.6400 TRACE ldomDocument::saveChanges() - rect storage
+2386/06/06 11:48:29.6450 TRACE ldomDocument::saveChanges() - blob storage data
+2386/06/06 11:48:29.6450 TRACE ldomDocument::saveChanges() - node style storage
+2386/06/06 11:48:29.6460 TRACE ldomDocument::saveChanges() - misc data
+2386/06/06 11:48:29.6460 TRACE ldomDocument::saveChanges() - ID data
+2386/06/06 11:48:29.6460 TRACE ldomDocument::saveChanges() - page data (19005 bytes)
+2386/06/06 11:48:29.6470 TRACE ldomDocument::saveChanges() - node data
+2386/06/06 11:48:29.6590 TRACE ldomDocument::saveChanges() - render info
+2386/06/06 11:48:29.6590 INFO Saving render properties: styleHash=b7977276, stylesheetHash=3cbec203, docflags=b, width=144, height=18a
+2386/06/06 11:48:29.6590 TRACE ldomDocument::saveChanges() - TOC
+2386/06/06 11:48:29.6590 TRACE Writing style data: 1208 bytes
+2386/06/06 11:48:29.6590 TRACE ldomDocument::saveChanges() - embedded fonts
+2386/06/06 11:48:29.6590 TRACE ldomDocument::saveChanges() - flush
+2386/06/06 11:48:29.6600 INFO CacheFile::clearing Dirty flag
+2386/06/06 11:48:29.6730 TRACE ldomDocument::saveChanges() - done
+2386/06/06 11:48:29.6730 INFO Successfully saved document to cache file: 2735K
+2386/06/06 11:48:29.6730 INFO Render is finished
+2386/06/06 11:48:29.6780 TRACE BookRenderedNotificationTask.run()
+2386/06/06 11:48:29.6780 TRACE Render is finished - unlocking document
+2386/06/06 11:48:29.6780 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:29.6800 INFO Document rendered: C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2
+2386/06/06 11:48:29.6800 TRACE starting animation 4 -> 5
+2386/06/06 11:48:29.6810 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.7020 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:29.7130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.7250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.7440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.7590 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.7750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.7920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8090 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8260 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.8920 TRACE stopping animation 4, 5
+2386/06/06 11:48:29.9090 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:29.9250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:30.6780 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:30.6780 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:30.6790 TRACE Existing last position bookmark not found for book 9
+2386/06/06 11:48:30.6880 TRACE CRUIMainWidget::onDirectoryScanFinished
+2386/06/06 11:48:30.6970 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:30.6980 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:30.7070 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:33.0320 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.0960 TRACE PopupControl::close()
+2386/06/06 11:48:33.0960 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:33.0960 TRACE PopupControl::close()
+2386/06/06 11:48:33.0960 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\screen-density-xhigh\home_frame.9.png
+2386/06/06 11:48:33.0970 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.0970 DEBUG loading image from file C:\JSlessons\Docs\Converted\cr3\res\themes\dark\screen-density-high\00_slider_handle.png
+2386/06/06 11:48:33.0990 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.1110 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.1280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.1440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.1610 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.1780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.1960 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.2120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.2280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.2470 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.2620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.2780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.2950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.3120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.3280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:33.3450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:34.1140 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:34.1140 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:34.1150 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:34.1240 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:34.2240 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.1220 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.1220 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:35.1240 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.1340 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.1350 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.1460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.1770 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.1770 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:35.1770 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.1900 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.2560 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.2810 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.2810 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:35.2820 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.2910 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.4470 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.9480 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.9480 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:35.9480 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.9570 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.9600 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.9770 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:35.9770 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:35.9770 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:35.9890 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:36.7860 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:36.7870 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:36.7870 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:36.7970 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:36.8750 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:36.8760 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:36.8760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:36.8860 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:36.8950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:37.7170 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:37.7180 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:37.7180 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:37.7300 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:37.7750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:37.8040 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:37.8050 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:37.8050 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:37.8220 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:37.8650 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:37.8650 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:37.8650 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:37.8750 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:37.9440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:38.1730 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:38.1730 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:38.1730 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:38.1840 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:38.2000 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:38.3050 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:38.3050 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:38.3060 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:38.3140 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:38.8650 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:38.8650 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:38.8650 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:38.8770 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:39.1780 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:39.1790 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:39.1790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:39.1890 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:39.6480 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:39.6480 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:39.6490 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:39.6600 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:40.9850 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:41.6970 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:42.9050 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:42.9120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:42.9520 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:42.9530 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:42.9690 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:42.9860 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.0020 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.0190 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.0350 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.0520 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.0690 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.0860 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.1020 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.1190 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.1360 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.1530 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.1530 TRACE PopupControl::close()
+2386/06/06 11:48:43.1540 DEBUG savePosToNavigationHistory(C:\JSlessons\Docs\Converted\go4convert-1kantor_il_ya_javascript_chast_1_yazyk_javascript.fb2:/FictionBook/body/section/p[1]/text().0)
+2386/06/06 11:48:43.1550 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:43.1550 TRACE ~CRUIPopupFrame()
+2386/06/06 11:48:43.1680 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:43.1870 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.1550 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:44.1570 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:44.1790 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:44.2960 TRACE animatePageFlip( 686 -> 688 )
+2386/06/06 11:48:44.2960 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:44.3110 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:44.3110 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:44.3110 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.3210 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:44.3340 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:44.3340 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.3380 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.3530 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.3700 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.3870 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.4040 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.4200 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.4370 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.4530 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.4700 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.4860 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.5030 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.5200 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.5370 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.5530 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.5710 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.5740 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:44.5870 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:44.6030 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:45.5750 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:45.5770 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:45.5960 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:45.6110 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:49.0640 TRACE animatePageFlip( 688 -> 690 )
+2386/06/06 11:48:49.0640 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:49.0640 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:49.0640 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.0750 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:49.0880 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:49.0880 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.0900 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.1070 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.1230 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.1400 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.1560 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.1730 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.1900 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.2070 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.2230 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.2400 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.2560 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.2730 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.2900 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.3070 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.3230 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.3260 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:49.3400 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:49.3570 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.2800 TRACE animatePageFlip( 690 -> 692 )
+2386/06/06 11:48:50.2800 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:50.2910 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3050 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3050 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:50.3050 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.3150 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3300 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3300 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:50.3330 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:50.3530 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3660 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3660 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.3770 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3920 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.3920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.4070 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.4240 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.4410 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.4570 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.4740 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.4910 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.5080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.5240 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.5410 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.5580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.5610 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:50.5740 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.5910 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.8330 TRACE animatePageFlip( 692 -> 694 )
+2386/06/06 11:48:50.8330 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:50.8430 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.8580 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.8580 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:50.8580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.8670 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.8820 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:50.8820 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.8910 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.9080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.9250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.9410 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.9580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.9740 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:50.9910 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.0090 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.0250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.0410 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.0590 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.0750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.0920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.1080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.1110 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:51.1260 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.1420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.3120 TRACE animatePageFlip( 694 -> 696 )
+2386/06/06 11:48:51.3120 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:51.3220 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:51.3360 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:51.3360 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:51.3370 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.3470 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:51.3620 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:51.3620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.3750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.3920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.4080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.4250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.4420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.4580 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.4750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.4930 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5590 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5750 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.5950 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:51.6080 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:51.6250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.2160 TRACE animatePageFlip( 696 -> 698 )
+2386/06/06 11:48:52.2160 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:52.2260 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:52.2400 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:52.2400 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:52.2400 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.2490 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:52.2630 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:52.2640 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.2760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.2920 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.3090 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.3250 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.3430 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.3590 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.3760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.3930 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4090 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4260 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4420 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4590 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4760 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4930 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.4960 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:52.5100 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:52.5270 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.5090 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:53.5120 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:53.5330 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:53.5510 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:53.5510 TRACE animatePageFlip( 698 -> 700 )
+2386/06/06 11:48:53.5510 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:53.5510 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:53.5520 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.5640 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:53.5810 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:53.5810 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.5940 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.6100 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.6270 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.6430 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.6600 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.6770 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.6930 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.7100 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.7270 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.7440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.7600 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.7770 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.7930 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.8120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.8160 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:53.8270 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:53.8440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:54.8160 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:54.8190 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:54.8380 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:54.8550 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.0400 TRACE animatePageFlip( 700 -> 702 )
+2386/06/06 11:48:55.0400 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:55.0400 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:55.0400 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.0520 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.0670 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.0680 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.0770 TRACE animatePageFlip( 700 -> 702 )
+2386/06/06 11:48:55.0770 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:55.0870 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.1020 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.1020 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:55.1020 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.1110 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.1250 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.1260 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.1290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.1440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.1610 TRACE animatePageFlip( 700 -> 702 )
+2386/06/06 11:48:55.1610 TRACE CRUIReadWidget::prepareScroll(1)
+2386/06/06 11:48:55.1710 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.1890 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.1890 TRACE CRUIReadWidget::prepareScroll(1) - done
+2386/06/06 11:48:55.1890 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.1980 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.2140 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.2150 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.2280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.2440 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.2610 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.2800 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.2950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3110 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3610 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3940 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.3970 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:55.4110 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.4280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.7290 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:55.7290 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:55.7380 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.7530 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.7530 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:55.7530 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:55.7530 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:55.7530 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:55.7530 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.7630 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.7780 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.7790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.7950 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:55.7950 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:55.8070 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8220 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8220 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:55.8220 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.8330 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8460 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8470 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:55.8470 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:55.8560 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8710 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8710 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:55.8710 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.8800 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8940 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:55.8940 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.9110 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.9280 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.9450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.9620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.9790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:55.9950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.0120 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.0120 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.0210 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.0350 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.0350 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.0350 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.0460 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.0660 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.0660 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.0660 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.0760 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.0900 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.0900 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.0900 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.0990 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.1140 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.1150 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.1150 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.1240 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.1390 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.1390 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.1390 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.1490 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.1630 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.1660 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.1790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.1960 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.1960 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.2070 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2210 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2210 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.2210 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.2310 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2440 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2450 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.2450 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.2540 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2680 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2680 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.2680 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.2770 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2930 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.2940 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.2950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.3120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.3290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.3450 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.3620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.3780 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.3950 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.3950 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.4040 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.4180 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.4190 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.4190 TRACE CRUIReadWidget::updatePosition()
+2386/06/06 11:48:56.4220 TRACE getBookmarkPosText() : getting position text
+2386/06/06 11:48:56.4320 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.4410 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.4550 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.4550 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.4550 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.4650 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.4800 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.4800 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.4800 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.4800 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.4800 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.4800 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.4890 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.5050 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.5050 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.5120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.5290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.5460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.5620 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.5790 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.5790 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.5880 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6020 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6020 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.6040 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.6140 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6290 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6300 TRACE animatePageFlip( 702 -> 700 )
+2386/06/06 11:48:56.6300 TRACE CRUIReadWidget::prepareScroll(-1)
+2386/06/06 11:48:56.6390 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6570 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6570 TRACE CRUIReadWidget::prepareScroll(-1) - done
+2386/06/06 11:48:56.6570 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.6670 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6810 TRACE CRUIReadWidget::PagedModePageCache::preparePage page is prepared
+2386/06/06 11:48:56.6820 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.6950 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.7120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.7300 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.7460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.7630 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.7800 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.7960 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.8130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.8290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.8460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.8630 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.8790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.8980 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.9120 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.9300 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.9460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.9640 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.9790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:56.9980 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.0130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.0290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.0460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.0630 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.0790 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.0970 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.1130 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.1160 TRACE CRUIReadWidget::postUpdatePosition(1000)
+2386/06/06 11:48:57.1290 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.1460 TRACE OpenGLWindow::renderNow()
+2386/06/06 11:48:57.9110 TRACE OpenGLWindow::resizeEvent
+2386/06/06 11:48:57.9110 TRACE saveWindowStateAndPosition()
+2386/06/06 11:48:57.9140 TRACE PopupControl::close()
+2386/06/06 11:48:57.9140 TRACE PopupControl::close()
+2386/06/06 11:48:57.9140 TRACE Exiting thread executor
+2386/06/06 11:48:57.9140 TRACE PopupControl::close()
+2386/06/06 11:48:57.9140 TRACE PopupControl::close()
+2386/06/06 11:48:57.9140 TRACE PopupControl::close()
+2386/06/06 11:48:57.9140 TRACE PopupControl::close()
+2386/06/06 11:48:57.9140 TRACE Exiting thread executor
+2386/06/06 11:48:57.9250 INFO uninitEngine started
+2386/06/06 11:48:57.9250 INFO Stopping coverpage manager
+2386/06/06 11:48:57.9250 INFO Calling coverPageManager->stop()
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::stop() - under lock
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::stop() deleting all tasks from queue
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::stop() all tasks are deleted, calling notifyAll on monitor
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::stop() calling Join
+2386/06/06 11:48:57.9250 INFO CRCoverPageManager thread finished
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::stop() joined
+2386/06/06 11:48:57.9250 INFO Returned from coverPageManager->stop(), calling delete coverPageManager
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::~CRCoverPageManager
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::~CRCoverPageManager deleting monitor
+2386/06/06 11:48:57.9250 TRACE CRCoverPageManager::~CRCoverPageManager deleting thread
+2386/06/06 11:48:57.9250 TRACE Deleting coverImageCache
+2386/06/06 11:48:57.9250 INFO CRCoverImageCache::clear()
+2386/06/06 11:48:57.9250 TRACE Deleting coverCache
+2386/06/06 11:48:57.9270 INFO Stopping directory cache manager
+2386/06/06 11:48:57.9270 TRACE CRDirCache::run :: done monitor wait - queue length = 0
+2386/06/06 11:48:57.9270 INFO CRCoverPageManager thread finished
+2386/06/06 11:48:57.9270 INFO Closing BookDB
+2386/06/06 11:48:57.9280 INFO uninitEngine finished
